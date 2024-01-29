@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+# Ola! Eu sou o Maiquel correa 👋 
 
 ![Knut's GitHub stats](https://github-readme-stats.vercel.app/api?username=yknutz&show_icons=true&theme=synthwave)
 
