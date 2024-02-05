@@ -1,7 +1,7 @@
 # Ola! Eu sou o Maiquel correa 👋 
 
 ![Knut's GitHub stats](https://github-readme-stats.vercel.app/api?username=yknutz&show_icons=true&theme=synthwave)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yknutz&layout=compact&theme=synthwave"/>
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yknutz&layout=compact&theme=synthwave"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
