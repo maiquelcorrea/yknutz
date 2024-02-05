@@ -7,6 +7,12 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+
+ <div>
+  <h3>Code time</h3>
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=262334&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24413%26project%3D%26in=0">
+  </div>
   
   ##
  
