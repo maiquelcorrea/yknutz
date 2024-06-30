@@ -1,7 +1,7 @@
 # Ola! Eu sou o Maiquel correa 👋 
 
-![Knut's GitHub stats](https://github-readme-stats.vercel.app/api?username=yknutz&show_icons=true&theme=synthwave)
-<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yknutz&layout=compact&theme=synthwave"/>
+![Knut's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiquelcorrea&show_icons=true&theme=synthwave)
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquelcorrea&layout=compact&theme=synthwave"/>
 
 <div style="display: inline_block"><br>
   <a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
